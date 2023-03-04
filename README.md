@@ -2,7 +2,7 @@
 
 Submitted by: **Brian Huynh**
 
-This web app: **insert description**
+This web app: **A flashcard set to help you learn how numbers are spelled using words.  Made for my nephew!**
 
 Time spent: **5** hours spent in total
 
