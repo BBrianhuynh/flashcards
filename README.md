@@ -41,7 +41,6 @@ GIF created with ScreenToGif.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 Some challenges I faced while making the app was figuring out how to create a card and flip it.  It took some time to learn how to do it
 in react but I was able to figure it out.  In addition, the other challenge I faced was trying to make multiple cards and be able to iterate through all of it.  I was able to figure it out by storing it in an array and calling each one individually.
 
