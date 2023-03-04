@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![](C:\Users\Brian Huynh\Desktop\NumbertoWords.gif)
+![NumbertoWords](https://user-images.githubusercontent.com/92127341/222926199-b5f19543-5e74-4ffb-8346-c1ff09bb5721.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif.
